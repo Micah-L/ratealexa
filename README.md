@@ -1,13 +1,14 @@
 # ratealexa
 
 ## Project setup
+Add your firebase config token to firebase.js and run
 ```
 npm install
 ```
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+firebase serve
 ```
 
 ### Compiles and minifies for production
@@ -19,6 +20,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
